@@ -1456,7 +1456,7 @@ definitions:
       name:
         type: object
         properties:
-          firstName:
+          givenName:
             type: string
             example: "Kim"
           lastName:
